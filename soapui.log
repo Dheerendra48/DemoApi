@@ -1,0 +1,190 @@
+2020-10-08 10:45:08,749 WARN  [SoapUI] Missing folder [C:\Users\DKSingh\Desktop\Project2\my-2nd-app\ext] for external libraries
+2020-10-08 10:45:09,056 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\DKSingh\soapui-settings.xml]
+2020-10-08 10:45:11,042 INFO  [WsdlProject] Loaded project from [file:/C:/Users/DKSingh/Desktop/Project2/my-2nd-app/Shopping-Service-soapui-project.xml]
+2020-10-08 10:45:11,720 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Shopping Service]
+2020-10-08 10:45:11,722 INFO  [SoapUITestCaseRunner] Running Project [Shopping Service], runType = SEQUENTIAL
+2020-10-08 10:45:11,755 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Property Expansion Login ans Logout]
+2020-10-08 10:45:11,764 INFO  [SoapUITestCaseRunner] running step [Username and Password]
+2020-10-08 10:45:11,814 INFO  [SoapUITestCaseRunner] running step [Call login Service]
+2020-10-08 10:45:12,159 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DKSingh/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2020-10-08 10:45:12,201 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DKSingh/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2020-10-08 10:45:12,207 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DKSingh/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2020-10-08 10:45:12,210 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DKSingh/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2020-10-08 10:45:12,213 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DKSingh/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2020-10-08 10:45:12,220 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DKSingh/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2020-10-08 10:45:12,224 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DKSingh/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2020-10-08 10:45:12,234 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DKSingh/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2020-10-08 10:45:12,241 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DKSingh/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2020-10-08 10:45:12,245 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DKSingh/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2020-10-08 10:45:12,249 INFO  [SchemaUtils] Loading schema types from [file:\C:\Users\DKSingh\Desktop\Soap%20UI\ShoppingService.wsdl]
+2020-10-08 10:45:12,250 INFO  [SchemaUtils] Getting schema file:\C:\Users\DKSingh\Desktop\Soap%20UI\ShoppingService.wsdl
+2020-10-08 10:45:12,269 INFO  [SchemaUtils] Getting schema file:\C:\Users\DKSingh\Desktop\Soap%20UI\ShoppingService.xsd
+2020-10-08 10:45:12,513 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:12,514 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:12,514 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:12,515 INFO  [SoapUITestCaseRunner] running step [Find Item]
+2020-10-08 10:45:12,877 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:12,878 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:12,878 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:12,881 INFO  [SoapUITestCaseRunner] running step [Purchage Item]
+2020-10-08 10:45:12,913 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:12,914 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:12,914 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:12,915 INFO  [SoapUITestCaseRunner] running step [Call Logout Service]
+2020-10-08 10:45:12,951 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:12,952 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:12,952 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:12,959 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Property Expansion Login ans Logout], time taken: 1167ms, status: FINISHED
+2020-10-08 10:45:12,962 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Purchase or Not To Purchage]
+2020-10-08 10:45:12,964 INFO  [SoapUITestCaseRunner] running step [Username and Password]
+2020-10-08 10:45:12,969 INFO  [SoapUITestCaseRunner] running step [Call login Service]
+2020-10-08 10:45:13,007 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:13,007 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:13,008 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:13,008 INFO  [SoapUITestCaseRunner] running step [Purchage or Not to purchage]
+2020-10-08 10:45:13,452 INFO  [log] User is Dheerendra
+2020-10-08 10:45:13,456 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:45:13,466 INFO  [SoapUITestCaseRunner] running step [Call Logout Service]
+2020-10-08 10:45:13,498 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:13,498 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:13,502 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:13,504 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Purchase or Not To Purchage], time taken: 520ms, status: FINISHED
+2020-10-08 10:45:13,506 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [System Test]
+2020-10-08 10:45:13,507 INFO  [SoapUITestCaseRunner] running step [System Test]
+2020-10-08 10:45:13,661 INFO  [log] ${Username and Password#username}
+2020-10-08 10:45:13,670 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Purchase or Not To Purchage]
+2020-10-08 10:45:13,671 INFO  [SoapUITestCaseRunner] running step [Username and Password]
+2020-10-08 10:45:13,672 INFO  [SoapUITestCaseRunner] running step [Call login Service]
+2020-10-08 10:45:13,724 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:13,726 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:13,727 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:13,727 INFO  [SoapUITestCaseRunner] running step [Purchage or Not to purchage]
+2020-10-08 10:45:13,730 INFO  [log] User is Dksingh
+2020-10-08 10:45:13,731 INFO  [log] Proceed to purchase
+2020-10-08 10:45:13,734 INFO  [SoapUITestCaseRunner] running step [Purchage Item]
+2020-10-08 10:45:13,768 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:13,768 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:13,769 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:13,771 INFO  [SoapUITestCaseRunner] running step [Call Logout Service]
+2020-10-08 10:45:13,800 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:13,801 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:13,802 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:13,804 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Purchase or Not To Purchage], time taken: 115ms, status: FINISHED
+2020-10-08 10:45:13,806 INFO  [log] FINISHED
+2020-10-08 10:45:13,818 INFO  [log] 5
+2020-10-08 10:45:13,818 INFO  [log] 115
+2020-10-08 10:45:13,821 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [System Test], time taken: 313ms, status: FINISHED
+2020-10-08 10:45:13,829 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [System Test]
+2020-10-08 10:45:13,830 INFO  [SoapUITestCaseRunner] running step [System Test]
+2020-10-08 10:45:13,888 INFO  [log] Dksingh
+2020-10-08 10:45:13,893 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Purchase or Not To Purchage]
+2020-10-08 10:45:13,895 INFO  [SoapUITestCaseRunner] running step [Username and Password]
+2020-10-08 10:45:13,895 INFO  [SoapUITestCaseRunner] running step [Call login Service]
+2020-10-08 10:45:13,926 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:13,927 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:13,928 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:13,929 INFO  [SoapUITestCaseRunner] running step [Purchage or Not to purchage]
+2020-10-08 10:45:13,932 INFO  [log] User is Dksingh
+2020-10-08 10:45:13,933 INFO  [log] Proceed to purchase
+2020-10-08 10:45:13,934 INFO  [SoapUITestCaseRunner] running step [Purchage Item]
+2020-10-08 10:45:13,976 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:13,976 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:13,977 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:13,978 INFO  [SoapUITestCaseRunner] running step [Call Logout Service]
+2020-10-08 10:45:14,018 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:14,019 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:14,020 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:14,022 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Purchase or Not To Purchage], time taken: 111ms, status: FINISHED
+2020-10-08 10:45:14,024 INFO  [log] FINISHED
+2020-10-08 10:45:14,024 INFO  [log] 5
+2020-10-08 10:45:14,025 INFO  [log] 111
+2020-10-08 10:45:14,026 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-10-08 10:45:14,068 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [System Test]
+2020-10-08 10:45:14,070 INFO  [SoapUITestCaseRunner] running step [System Test]
+2020-10-08 10:45:14,074 INFO  [log] Dksingh
+2020-10-08 10:45:14,077 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Purchase or Not To Purchage]
+2020-10-08 10:45:14,078 INFO  [SoapUITestCaseRunner] running step [Username and Password]
+2020-10-08 10:45:14,080 INFO  [SoapUITestCaseRunner] running step [Call login Service]
+2020-10-08 10:45:14,142 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:14,143 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:14,144 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:14,145 INFO  [SoapUITestCaseRunner] running step [Purchage or Not to purchage]
+2020-10-08 10:45:14,147 INFO  [log] User is Dksingh
+2020-10-08 10:45:14,149 INFO  [log] Proceed to purchase
+2020-10-08 10:45:14,150 INFO  [SoapUITestCaseRunner] running step [Purchage Item]
+2020-10-08 10:45:14,189 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:14,190 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:14,190 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:14,191 INFO  [SoapUITestCaseRunner] running step [Call Logout Service]
+2020-10-08 10:45:14,218 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:14,220 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:14,221 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:14,223 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Purchase or Not To Purchage], time taken: 129ms, status: FINISHED
+2020-10-08 10:45:14,224 INFO  [log] FINISHED
+2020-10-08 10:45:14,226 INFO  [log] 5
+2020-10-08 10:45:14,227 INFO  [log] 129
+2020-10-08 10:45:14,228 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [System Test], time taken: 155ms, status: FINISHED
+2020-10-08 10:45:14,229 INFO  [log] FINISHED
+2020-10-08 10:45:14,230 INFO  [log] 1
+2020-10-08 10:45:14,231 INFO  [log] 155
+2020-10-08 10:45:14,234 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [System Test], time taken: 399ms, status: FINISHED
+2020-10-08 10:45:14,239 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [DataDriven using Jxl]
+2020-10-08 10:45:14,240 INFO  [SoapUITestCaseRunner] running step [DataDriven]
+2020-10-08 10:45:14,857 INFO  [log] number of rows is 3 and number of columns is 2
+2020-10-08 10:45:14,879 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Purchase or Not To Purchage]
+2020-10-08 10:45:14,880 INFO  [SoapUITestCaseRunner] running step [Username and Password]
+2020-10-08 10:45:14,882 INFO  [SoapUITestCaseRunner] running step [Call login Service]
+2020-10-08 10:45:14,908 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:14,910 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:14,911 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:14,913 INFO  [SoapUITestCaseRunner] running step [Purchage or Not to purchage]
+2020-10-08 10:45:14,915 INFO  [log] User is Dksingh
+2020-10-08 10:45:14,915 INFO  [log] Proceed to purchase
+2020-10-08 10:45:14,917 INFO  [SoapUITestCaseRunner] running step [Purchage Item]
+2020-10-08 10:45:14,949 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:14,950 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:14,951 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:14,953 INFO  [SoapUITestCaseRunner] running step [Call Logout Service]
+2020-10-08 10:45:14,979 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:14,979 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:14,980 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:14,983 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Purchase or Not To Purchage], time taken: 84ms, status: FINISHED
+2020-10-08 10:45:14,986 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Purchase or Not To Purchage]
+2020-10-08 10:45:14,987 INFO  [SoapUITestCaseRunner] running step [Username and Password]
+2020-10-08 10:45:14,987 INFO  [SoapUITestCaseRunner] running step [Call login Service]
+2020-10-08 10:45:15,010 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:15,012 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:15,013 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:15,015 INFO  [SoapUITestCaseRunner] running step [Purchage or Not to purchage]
+2020-10-08 10:45:15,017 INFO  [log] User is Dksingh
+2020-10-08 10:45:15,017 INFO  [log] Proceed to purchase
+2020-10-08 10:45:15,018 INFO  [SoapUITestCaseRunner] running step [Purchage Item]
+2020-10-08 10:45:15,052 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:15,053 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:15,054 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:15,055 INFO  [SoapUITestCaseRunner] running step [Call Logout Service]
+2020-10-08 10:45:15,086 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:15,086 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:15,088 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:15,089 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Purchase or Not To Purchage], time taken: 84ms, status: FINISHED
+2020-10-08 10:45:15,092 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [DataDriven using Jxl], time taken: 850ms, status: FINISHED
+2020-10-08 10:45:15,094 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Database]
+2020-10-08 10:45:15,095 INFO  [SoapUITestCaseRunner] running step [JDBC Request]
+2020-10-08 10:45:15,445 INFO  [SoapUITestCaseRunner] running step [Data from DB]
+2020-10-08 10:45:15,505 INFO  [log] Dksingh
+2020-10-08 10:45:15,510 INFO  [log] Welcome12
+2020-10-08 10:45:15,516 INFO  [log] Dheerendra
+2020-10-08 10:45:15,518 INFO  [log] Welcome12
+2020-10-08 10:45:15,522 INFO  [log] Sunil
+2020-10-08 10:45:15,526 INFO  [log] Welcome1
+2020-10-08 10:45:15,528 INFO  [SoapUITestCaseRunner] running step [Username and Password]
+2020-10-08 10:45:15,529 INFO  [SoapUITestCaseRunner] running step [Call Login Service]
+2020-10-08 10:45:15,556 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:15,559 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:15,559 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:15,561 INFO  [SoapUITestCaseRunner] running step [Call Logout Service]
+2020-10-08 10:45:15,586 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 10:45:15,586 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 10:45:15,587 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 10:45:15,589 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Database], time taken: 480ms, status: FINISHED
+2020-10-08 10:45:15,590 INFO  [SoapUITestCaseRunner] Project [Shopping Service] finished with status [FINISHED] in 3863ms

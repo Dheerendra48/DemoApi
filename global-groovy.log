@@ -1,0 +1,68 @@
+2020-10-08 10:42:50,822 INFO  [log] User is Dheerendra
+2020-10-08 10:42:50,827 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:42:51,007 INFO  [log] ${Username and Password#username}
+2020-10-08 10:42:51,045 INFO  [log] User is Dksingh
+2020-10-08 10:42:51,046 INFO  [log] Proceed to purchase
+2020-10-08 10:42:51,147 INFO  [log] FINISHED
+2020-10-08 10:42:51,165 INFO  [log] 5
+2020-10-08 10:42:51,166 INFO  [log] 106
+2020-10-08 10:42:51,289 INFO  [log] Dksingh
+2020-10-08 10:42:51,365 INFO  [log] User is Dksingh
+2020-10-08 10:42:51,366 INFO  [log] Proceed to purchase
+2020-10-08 10:42:51,449 INFO  [log] FINISHED
+2020-10-08 10:42:51,449 INFO  [log] 5
+2020-10-08 10:42:51,450 INFO  [log] 121
+2020-10-08 10:42:51,523 INFO  [log] Dksingh
+2020-10-08 10:42:51,596 INFO  [log] User is Dksingh
+2020-10-08 10:42:51,598 INFO  [log] Proceed to purchase
+2020-10-08 10:42:51,668 INFO  [log] FINISHED
+2020-10-08 10:42:51,669 INFO  [log] 5
+2020-10-08 10:42:51,669 INFO  [log] 104
+2020-10-08 10:42:51,671 INFO  [log] FINISHED
+2020-10-08 10:42:51,672 INFO  [log] 1
+2020-10-08 10:42:51,673 INFO  [log] 150
+2020-10-08 10:42:52,310 INFO  [log] number of rows is 3 and number of columns is 2
+2020-10-08 10:42:52,372 INFO  [log] User is Dksingh
+2020-10-08 10:42:52,374 INFO  [log] Proceed to purchase
+2020-10-08 10:42:52,476 INFO  [log] User is Dksingh
+2020-10-08 10:42:52,477 INFO  [log] Proceed to purchase
+2020-10-08 10:42:52,949 INFO  [log] Dksingh
+2020-10-08 10:42:52,951 INFO  [log] Welcome12
+2020-10-08 10:42:52,956 INFO  [log] Dheerendra
+2020-10-08 10:42:52,957 INFO  [log] Welcome12
+2020-10-08 10:42:52,960 INFO  [log] Sunil
+2020-10-08 10:42:52,961 INFO  [log] Welcome1
+2020-10-08 10:45:13,452 INFO  [log] User is Dheerendra
+2020-10-08 10:45:13,456 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:45:13,661 INFO  [log] ${Username and Password#username}
+2020-10-08 10:45:13,730 INFO  [log] User is Dksingh
+2020-10-08 10:45:13,731 INFO  [log] Proceed to purchase
+2020-10-08 10:45:13,806 INFO  [log] FINISHED
+2020-10-08 10:45:13,818 INFO  [log] 5
+2020-10-08 10:45:13,818 INFO  [log] 115
+2020-10-08 10:45:13,888 INFO  [log] Dksingh
+2020-10-08 10:45:13,932 INFO  [log] User is Dksingh
+2020-10-08 10:45:13,933 INFO  [log] Proceed to purchase
+2020-10-08 10:45:14,024 INFO  [log] FINISHED
+2020-10-08 10:45:14,024 INFO  [log] 5
+2020-10-08 10:45:14,025 INFO  [log] 111
+2020-10-08 10:45:14,074 INFO  [log] Dksingh
+2020-10-08 10:45:14,147 INFO  [log] User is Dksingh
+2020-10-08 10:45:14,149 INFO  [log] Proceed to purchase
+2020-10-08 10:45:14,224 INFO  [log] FINISHED
+2020-10-08 10:45:14,226 INFO  [log] 5
+2020-10-08 10:45:14,227 INFO  [log] 129
+2020-10-08 10:45:14,229 INFO  [log] FINISHED
+2020-10-08 10:45:14,230 INFO  [log] 1
+2020-10-08 10:45:14,231 INFO  [log] 155
+2020-10-08 10:45:14,857 INFO  [log] number of rows is 3 and number of columns is 2
+2020-10-08 10:45:14,915 INFO  [log] User is Dksingh
+2020-10-08 10:45:14,915 INFO  [log] Proceed to purchase
+2020-10-08 10:45:15,017 INFO  [log] User is Dksingh
+2020-10-08 10:45:15,017 INFO  [log] Proceed to purchase
+2020-10-08 10:45:15,505 INFO  [log] Dksingh
+2020-10-08 10:45:15,510 INFO  [log] Welcome12
+2020-10-08 10:45:15,516 INFO  [log] Dheerendra
+2020-10-08 10:45:15,518 INFO  [log] Welcome12
+2020-10-08 10:45:15,522 INFO  [log] Sunil
+2020-10-08 10:45:15,526 INFO  [log] Welcome1
